@@ -1,5 +1,7 @@
 # 🐍 WeatherForecast (Flask)
 
+## Проект развернут [здесь](https://decebell032rus.pythonanywhere.com)
+
 ![](https://i.postimg.cc/NGSY5K9q/obsh.jpg)
 
 ## 📌 Описание проекта
